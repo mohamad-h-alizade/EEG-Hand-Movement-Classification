@@ -3,4 +3,4 @@ Berlin 2003 BCI Competition - Channels were filtered in frequency domain and com
 
 Various features were extracted using genetic algorithm and a neural network was designed. We achieved around 85% accuracy on the test data. 
 
-Contact the owner of the dataset here: https://www.bbci.de/competition/ii/berlin_desc.html
+Dataset: https://www.bbci.de/competition/ii/berlin_desc.html
